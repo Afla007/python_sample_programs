@@ -72,6 +72,7 @@ else:
 @@@@@@@@
 
     #membership operator checks whether an element is present or not
+    #in and not in
 movies=["kill bill","spider man","harry potter"]
 movie=input("Enter a movie: ")
 if movie in movies:

@@ -1,10 +1,11 @@
-
+'''
 if condition:
     code to be executed
 elif condition:
     code to be executed
 else:
     code to be executed
+    '''
 #============
 
 num=int(input("Enter a number: "))
@@ -57,12 +58,13 @@ if num>=100 and num<=999:
 else:
     print("Not a 3 digit number")
 #=================
+'''
     #control statements:-for repeated checking,
     for and while loop,thet are called entry controller loops
 
     syntax:- for variable in sequence : 
     code to be executed
-
+'''
     #using range function(syntax):-
     for variable in range(start,stop,step):
         code to be executed

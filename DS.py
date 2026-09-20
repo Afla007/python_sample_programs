@@ -73,8 +73,7 @@ print(userdata)
 userdata.reverse()
 print(userdata) 
 # thers more in notes try tht also
-'''
-'''
+
 #tuple
 tuple1=(1,2,3,4,5)
 print(tuple1)
@@ -120,8 +119,8 @@ else:
 
  # try : repeating character index,second non repeating character,without using the count function(imp,must do)
 
-'''
-'''
+
+
 #SET:-unorderd,mutable,no duplicates,cannot access by indexing
 student1={"english","hindi","malayalam"}
 student2={"english","hindi","python"}
@@ -169,7 +168,7 @@ print(fs1)
 print(fs2)
 '''
 #DICTIONARY:- two ways to use 
-'''
+
 student={             #1st wway
     "name":"Afla",
     "age":22,
@@ -201,3 +200,4 @@ print(employee)
 print(employee["emp3"]["age"])
 
 #saturday,even today itself- write every syntax you have learned until now
+'''

@@ -15,7 +15,7 @@ print("The student mark is: ",student_mark)
 print("Present or not: ",is_present)
 print("languages known ",languages_known)
 
-#type of function
+#type of function= to know the class of the variable
 print(type(student_name))
 print(type(student_age))
 print(type(student_mark))
